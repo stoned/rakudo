@@ -1,3 +1,7 @@
+New in 2020.08.1:
+  + Changes:
+    Fix version revisions [1336e5f3]
+
 New in 2020.08:
   + Changes:
     + Methods `name` and `usage-name` of `Parameter` now return an empty `Str`,
